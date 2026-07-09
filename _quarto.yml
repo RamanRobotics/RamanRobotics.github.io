@@ -1,21 +1,49 @@
 project:
   type: website
+  render:
+    - index.qmd
+    - projects.qmd
+    - blog.qmd
+    - notes.qmd
+    - projects/
+    - posts/
+    - notes/
 
 website:
-  title: "robotics-website"
+  title: "Ramana Botta"
+  description: "Personal website of Ramana Botta"
+  site-url: "https://ramanabotta.github.io"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: About
+      - href: projects.qmd
+        text: Projects
+      - href: blog.qmd
+        text: Blog
+      - href: notes.qmd
+        text: Notes
+    right:
+      - icon: envelope
+        href: mailto:ramanab@bosonmotors.com
+        aria-label: Email
+      - icon: linkedin
+        href: https://www.linkedin.com/in/ramanabotta
+        aria-label: LinkedIn
+      - icon: github
+        href: https://github.com/RamanaBotta
+        aria-label: GitHub
+      - icon: twitter-x
+        href: https://x.com/ramanabotta
+        aria-label: X (Twitter)
+  page-footer:
+    center: "&copy; 2026 Ramana Botta"
+    background: light
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
-    toc: true
-
-
-
+    toc: false
+    grid:
+      body-width: 850px

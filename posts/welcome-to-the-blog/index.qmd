@@ -1,0 +1,10 @@
+---
+title: "Welcome to the blog"
+date: 2026-07-09
+categories: [meta]
+---
+
+<!-- PLACEHOLDER: replace with a real first post. -->
+
+This is the first post on the blog. Longer-form writeups on robotics,
+hardware, and whatever else is worth writing about will go here.

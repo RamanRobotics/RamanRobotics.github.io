@@ -1,0 +1,10 @@
+---
+title: "First note"
+date: 2026-07-09
+categories: [meta]
+---
+
+<!-- PLACEHOLDER: replace with a real note. -->
+
+A quick, informal note — a TIL, a paper summary, or a scratch idea. Shorter
+and rougher than a blog post.

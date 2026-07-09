@@ -1,0 +1,12 @@
+---
+title: "Notes"
+listing:
+  contents: notes
+  type: default
+  sort: "date desc"
+  categories: false
+page-layout: full
+title-block-banner: false
+---
+
+<!-- Shorter, less polished than the blog: quick write-ups, TILs, paper notes. -->

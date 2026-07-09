@@ -4,5 +4,41 @@
   },
   "about.qmd": {
     "about.html": "717d3a1b"
+  },
+  "projects.qmd": {
+    "projects.html": "a59bb53f"
+  },
+  "blog.qmd": {
+    "blog.html": "715f2c3f"
+  },
+  "notes.qmd": {
+    "notes.html": "e55acd03"
+  },
+  "projects/project-1/index.qmd": {
+    "index.html": "2cefa257"
+  },
+  "projects/project-2/index.qmd": {
+    "index.html": "fdfa7f4d"
+  },
+  "posts/welcome-to-the-blog/index.qmd": {
+    "index.html": "ff9adfe3"
+  },
+  "notes/first-note/index.qmd": {
+    "index.html": "8fe4c97f"
+  },
+  "posts/test/index.qmd": {
+    "index.html": "82ba1377"
+  },
+  "posts/welcome-to-the-blog/index1.qmd": {
+    "index1.html": "6f01ac71"
+  },
+  "posts/test1/index.qmd": {
+    "index.html": "c8d06adf"
+  },
+  "posts/raman/index.qmd": {
+    "index.html": "570e7543"
+  },
+  "notes/second-note/index.qmd": {
+    "index.html": "5c32640b"
   }
 }
