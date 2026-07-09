@@ -8,7 +8,7 @@ about:
   links:
     - icon: envelope
       text: Email
-      href: mailto:ramanab@bosonmotors.com
+      href: mailto:chandhra1999@gmail.com
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/ramanabotta

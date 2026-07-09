@@ -12,7 +12,7 @@ project:
 website:
   title: "Ramana Botta"
   description: "Personal website of Ramana Botta"
-  site-url: "https://ramanabotta.github.io"
+  site-url: "https://ramanrobotics.github.io"
   navbar:
     left:
       - href: index.qmd
@@ -25,7 +25,7 @@ website:
         text: Notes
     right:
       - icon: envelope
-        href: mailto:ramanab@bosonmotors.com
+        href: mailto:chandhra1999@gmail.com
         aria-label: Email
       - icon: linkedin
         href: https://www.linkedin.com/in/ramanabotta
