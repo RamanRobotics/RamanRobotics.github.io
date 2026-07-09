@@ -1,6 +1,5 @@
 project:
   type: website
-  output-dir: .
   render:
     - index.qmd
     - projects.qmd
