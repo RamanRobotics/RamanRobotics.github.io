@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Ramana Botta</title>
+<link>https://ramanrobotics.github.io/blog.html</link>
+<atom:link href="https://ramanrobotics.github.io/blog.xml" rel="self" type="application/rss+xml"/>
+<description>Personal website of Ramana Botta</description>
+<generator>quarto-1.9.38</generator>
+<lastBuildDate>Wed, 08 Jul 2026 18:30:00 GMT</lastBuildDate>
+<item>
+  <title>Test</title>
+  <link>https://ramanrobotics.github.io/posts/test/</link>
+  <description><![CDATA[ 
+
+
+
+
+<!--
+How to use this template:
+1. Copy this file to posts/<your-post-slug>/index.qmd
+   (or run scripts/new-post.sh "Your Post Title")
+2. Fill in the front matter above:
+   - title: shown as the post heading and in the listing
+   - date: controls sort order on the Blog page (YYYY-MM-DD)
+   - categories: optional tags, shown as filters if listing categories: true
+   - description: optional, shown under the title in the listing
+   - image: optional thumbnail; drop an image file next to this index.qmd
+     and reference it here, or delete the line if you don't have one
+3. Delete this comment block and write the post below.
+-->
+<p>Start writing here.</p>
+
+
+
+ ]]></description>
+  <category>category-one</category>
+  <category>category-two</category>
+  <guid>https://ramanrobotics.github.io/posts/test/</guid>
+  <pubDate>Wed, 08 Jul 2026 18:30:00 GMT</pubDate>
+  <media:content url="https://ramanrobotics.github.io/posts/test/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Welcome to the blog</title>
+  <link>https://ramanrobotics.github.io/posts/welcome-to-the-blog/</link>
+  <description><![CDATA[ 
+
+
+
+
+<!-- PLACEHOLDER: replace with a real first post. -->
+<p>This is the first post on the blog. Longer-form writeups on robotics, hardware, and whatever else is worth writing about will go here.</p>
+
+
+
+ ]]></description>
+  <category>meta</category>
+  <guid>https://ramanrobotics.github.io/posts/welcome-to-the-blog/</guid>
+  <pubDate>Wed, 08 Jul 2026 18:30:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

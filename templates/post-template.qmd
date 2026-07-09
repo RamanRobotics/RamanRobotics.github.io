@@ -1,0 +1,23 @@
+---
+title: "Post Title Here"
+date: 2026-01-01
+categories: [category-one, category-two]
+description: "One or two sentences that show up in the blog listing and link previews."
+image: image.jpg
+---
+
+<!--
+How to use this template:
+1. Copy this file to posts/<your-post-slug>/index.qmd
+   (or run scripts/new-post.sh "Your Post Title")
+2. Fill in the front matter above:
+   - title: shown as the post heading and in the listing
+   - date: controls sort order on the Blog page (YYYY-MM-DD)
+   - categories: optional tags, shown as filters if listing categories: true
+   - description: optional, shown under the title in the listing
+   - image: optional thumbnail; drop an image file next to this index.qmd
+     and reference it here, or delete the line if you don't have one
+3. Delete this comment block and write the post below.
+-->
+
+Start writing here.
