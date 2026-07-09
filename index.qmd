@@ -1,6 +1,6 @@
 ---
 title: "Ramana Botta"
-image: profile.svg
+image: profile.jpeg
 about:
   template: jolla
   image-shape: round
